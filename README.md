@@ -7,3 +7,6 @@ Community Air Protection Program
 by Steven Gutterman and Suheyla Tozan
 
 See "Data" folder for datasets used and Python code for how to extract from EPA's Air Quality System API.
+
+
+NOTE: See citation for Keras Tuner: https://www.tensorflow.org/tutorials/keras/keras_tuner
